@@ -3,13 +3,13 @@
 
 ## Мои проекты:
 **Работают и обновляются:**
- - [FamHelper](https://github.com/Revavi/SAMP-scripts/tree/FamHelper)
+ - [FamHelper [lua]](https://github.com/Revavi/SAMP-scripts/tree/FamHelper)
 
 **Обновлений не планируется:**
- - [Pilot Helper](https://github.com/Revavi/PilotHelper)
+ - [Pilot Helper [lua]](https://github.com/Revavi/PilotHelper)
 
 **В разработке:**
- - [MapHelper](https://github.com/Revavi/MapHelper)
+ - [MapHelper [lua]](https://github.com/Revavi/MapHelper)
 
 **Заброшенные:**
  - *отсутствуют*
