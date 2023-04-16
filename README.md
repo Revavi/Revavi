@@ -1,5 +1,5 @@
 # Обо мне
-Привет, я начинающий программист на python и lua. Меня зовут Иван, я из России.
+Привет, я начинающий программист на python и lua. Меня зовут Иван, я из России!
 
 ## Мои проекты:
 **Работают и обновляются:**
@@ -9,7 +9,7 @@
  - [Pilot Helper [lua]](https://github.com/Revavi/PilotHelper)
 
 **В разработке:**
- - [MapHelper [lua]](https://github.com/Revavi/MapHelper)
+ - [More Waypoints [lua]](https://github.com/Revavi/More-Waypoints)
 
 **Заброшенные:**
  - *отсутствуют*
