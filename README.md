@@ -4,12 +4,13 @@
 ## Мои проекты:
 **Работают и обновляются:**
  - [FamHelper [lua]](https://github.com/Revavi/SAMP-scripts/tree/FamHelper)
-
-**Обновлений не планируется:**
  - [Pilot Helper [lua]](https://github.com/Revavi/PilotHelper)
 
+**Обновлений не планируется:**
+ - *Отсутствует*
+
 **В разработке:**
- - [More Waypoints [lua]](https://github.com/Revavi/More-Waypoints)
+ - *Simple Answer Saver(SAS) [lua]*
 
 **Заброшенные:**
- - *отсутствуют*
+ - [More Waypoints [lua]](https://github.com/Revavi/More-Waypoints)
