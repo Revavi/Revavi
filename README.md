@@ -5,7 +5,7 @@
 **Готовы:**
  - [FamHelper [lua]](https://github.com/Revavi/SAMP-scripts/tree/FamHelper) *[Update v4.0.0 coming soon...]*
  - [Pilot Helper [lua]](https://github.com/Revavi/PilotHelper) *[Update v1.1.0 coming soon...]*
- - [CNN Helper [lua]](https://github.com/Revavi/CNN-Helper) *[Update v1.1.0]*
+ - [CNN Helper [lua]](https://github.com/Revavi/CNN-Helper) *[update v1.1.1 coming soon...]* 
 
 **В разработке:**
  - *отсутствуют*
