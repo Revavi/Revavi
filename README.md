@@ -4,7 +4,7 @@
 ## Мои проекты:
 **Готовы:**
  - [FamHelper [lua]](https://github.com/Revavi/SAMP-scripts/tree/FamHelper) *[Update v4.0.0 coming soon...?]*
- - [Pilot Helper [lua]](https://github.com/Revavi/PilotHelper) *[Update v1.1.0]*
+ - [Pilot Helper [lua]](https://github.com/Revavi/PilotHelper)
  - [CNN Helper [lua]](https://github.com/Revavi/CNN-Helper)
 
 **В разработке:**
