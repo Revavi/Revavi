@@ -8,7 +8,7 @@
  - [CNN Helper [lua]](https://github.com/Revavi/CNN-Helper)
 
 **В разработке:**
- - *отсутствуют*
+ - *Enigma [lua]*
 
 **Заброшенные:**
  - [More Waypoints [lua]](https://github.com/Revavi/More-Waypoints)
