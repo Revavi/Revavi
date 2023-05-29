@@ -1,9 +1,6 @@
-# Обо мне
-Привет, я начинающий программист на python и lua. Меня зовут Иван, я из России!
-
 ## Мои проекты:
 **Готовы:**
- - [Pilot Helper [lua]](https://github.com/Revavi/PilotHelper)
+ - [Pilot Helper [lua]](https://github.com/Revavi/PilotHelper) [Update v1.1.1]
  - [CNN Helper [lua]](https://github.com/Revavi/CNN-Helper)
 
 **В разработке:**
