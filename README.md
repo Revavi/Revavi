@@ -1,7 +1,7 @@
 # About me
 Python Developer from Russia
 
-***discord:* revavi**
+***discord:* revavi**  
 ***telegram:* [CleanVeins](https://t.me/CleanVeins)**
 
 ## My projects:
