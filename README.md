@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Revavi
 
-### 💻 Tech Stack
+<h1 align="center">💻 Tech Stack</h1>
 <div align="center">
-  <h1 align="center">💻 Tech Stack</h1>
-  <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="С#">
