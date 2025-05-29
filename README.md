@@ -21,4 +21,4 @@
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Revavi&show_icons=true&theme=dark)](https://github.com/Revavi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Revavi&layout=compact&theme=dark)](https://github.com/Revavi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Revavi)](https://github.com/anuraghazra/github-readme-stats)
