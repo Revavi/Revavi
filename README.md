@@ -14,15 +14,6 @@
 1. [Project Name 1](link) - Short description
 2. [Project Name 2](link) - Short description
 
-### 📚 Learning
-- Currently exploring [technology/topic]
-- Improving skills in [specific area]
-
-### 💬 Ask me about
-- Game development (Unity)
-- Scripting automation
-- Backend development
-
 ---
 
 <details>
