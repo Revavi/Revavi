@@ -11,16 +11,9 @@
 ---
 
 ### 🔭 Current Projects
-1. [Project Name 1](link) - Short description
-2. [Project Name 2](link) - Short description
 
 ---
-
-<details>
-<summary>📊 GitHub Stats</summary>
-<br>
   
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Revavi&show_icons=true&theme=dark)](https://github.com/Revavi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Revavi&layout=compact&theme=dark)](https://github.com/Revavi)
-</details>
