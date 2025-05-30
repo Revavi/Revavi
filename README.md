@@ -1,8 +1,3 @@
-<h1 align="center">👋 Hi, I'm Revavi</h1>
-<h4 align="center">🌍 From Russia</h6>
-
----
-
 <h1 align="center">💻 Tech Stack</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
