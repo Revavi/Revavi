@@ -1,4 +1,4 @@
-### 📫 How to reach me
+# 📫 How to reach me
 
 - [Github Profile](https://github.com/Revavi)
 - Discord (revavi)
